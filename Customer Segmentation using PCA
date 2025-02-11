@@ -1,0 +1,12 @@
+Problem Statement
+This project analyzes consumer behavior using statistical techniques like data scaling, correlation analysis, and Principal Component Analysis (PCA). The goal is to identify customer segments and derive insights to optimize store operations and marketing strategies.
+
+Key Tasks:
+Data Preprocessing: Standardize survey responses for comparability.
+Correlation Analysis: Identify relationships between variables.
+PCA: Reduce dimensionality while preserving variance.
+Factor Interpretation: Define customer segments (e.g., "Efficient Shoppers," "Value Shoppers").
+Visualization: Use scree plots and biplots for insights.
+Customer Segmentation: Group customers based on shopping behavior.
+Business Impact: Recommend strategies to enhance customer experience and sales efficiency.
+This analysis helps businesses refine sales approaches, improve customer engagement, and optimize store layouts.
