@@ -1,10 +1,4 @@
----
-title: 'Assignment 1'
-author: "Mohit Gupta"
-date: "April 2023"
-output: word_document
-urlcolor: blue
----
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
